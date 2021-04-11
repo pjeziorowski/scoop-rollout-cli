@@ -1,12 +1,12 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pjeziorowski/rollout/releases/download/v0.0.6/rollout_0.0.6_windows_amd64.zip",
+            "url": "https://github.com/pjeziorowski/rollout/releases/download/v0.0.7/rollout_0.0.7_windows_amd64.zip",
             "bin": [
                 "rollout.exe"
             ],
-            "hash": "78412050b8d5e0c7d81f5eef931347f461e8968d2cff69c6f4942020c18b8191"
+            "hash": "03a06db23fdb5eca0e9da2be448adf37ed269fcb31aa769cfa4e4e202ba77b92"
         }
     },
     "description": "Publish your articles everywhere",
